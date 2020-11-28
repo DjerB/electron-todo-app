@@ -1,3 +1,8 @@
+# Electron.js Todo App
+
+<img src="images/desktop-1.png" />
+<img src="images/desktop-2.png" />
+
 # React Electron
 
 *Easy-to-understand-and-use boilerplate code for creating an Electron desktop app simply using Reactjs. Includes React Router.*
